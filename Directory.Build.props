@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Project>
   <PropertyGroup>
     <Product>DownTube-Updater</Product>
-    <Version>0.1.0</Version>
-    <FileVersion>0.1.0</FileVersion>
-    <AssemblyVersion>0.1.0</AssemblyVersion>
+    <Version>0.1.1</Version>
+    <FileVersion>0.1.1</FileVersion>
+    <AssemblyVersion>0.1.1</AssemblyVersion>
     <Company>Starflash Studios</Company>
     <Copyright>Copyright © Starflash Studios 2021</Copyright>
     <NeutralLanguage>en</NeutralLanguage>
